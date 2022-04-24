@@ -1,0 +1,19 @@
+{
+  "name": "kaanapi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.3",
+    "fivem-server-info": "^1.0.5",
+    "minecraft-lookup": "^1.1.36",
+    "random-text-faces": "^1.0.9",
+    "userinfo-github": "^6.0.0"
+  }
+}
