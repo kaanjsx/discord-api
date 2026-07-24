@@ -1,4 +1,1 @@
-## DC-API V1
-
-A simple resource that pulls data from discord that you can use on your bots and sites.
-
+A modern Discord API project built to demonstrate integration with the Discord Developer Platform. This project provides a clean and scalable foundation for building Discord-based applications, bots, and API-driven services.
